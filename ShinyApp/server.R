@@ -17,7 +17,7 @@ library(knitr)
 library(shiny)
 
 
-# Data come from https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip
+# Data comes from https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip
 
 source("DummyPrediction.R")
 
